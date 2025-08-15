@@ -27,9 +27,18 @@ me9rez
 
 ## 🛠️ My Commonly Used Tools
 
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscodium&logoColor=fff)
+![QGIS Badge](https://img.shields.io/badge/QGIS-5684a1?logo=qgis&logoColor=green)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,vue,react,nodejs,rollupjs,webpack,vite,vitest,tauri,threejs,postgres,wasm,docker,github,pnpm,bun,deno,astro,nuxtjs&perline=6" />
