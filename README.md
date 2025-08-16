@@ -59,5 +59,5 @@ me9rez
 </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=me9rez&show_icons=true&theme=dark&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me9rez&layout=compact&theme=dark&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=me9rez&show_icons=true&theme=vue&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me9rez&layout=compact&theme=vue&hide_border=true" alt="" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
