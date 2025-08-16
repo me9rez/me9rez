@@ -31,6 +31,8 @@ me9rez
 | [node-mbtiles](https://github.com/me9rez/node-mbtiles) | 用于读写MBTiles格式地图瓦片数据库的Node库 | - |
 | [maptalks.js](https://github.com/maptalks/maptalks.js) | 一个轻量级且可插拔的JavaScript库，用于集成2D/3D地图 | - |
 | [rsbuild-electron-template](https://github.com/me9rez/rsbuild-electron-template) | 使用Rsbuild构建Electron项目的模板 | - |
+| [rsbuild-nwjs-app-template](https://github.com/me9rez/rsbuild-nwjs-app-template) | 使用Rsbuild构建NW.js应用程序的模板 | - |
+
 
 ---
 
