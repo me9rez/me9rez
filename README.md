@@ -29,8 +29,8 @@ me9rez
 |- | - |- |
 | [dem-dynamic-terrain](https://github.com/me9rez/dem-dynamic-terrain) | 根据DEM数据生成地形切片的工具 | - |
 | [node-mbtiles](https://github.com/me9rez/node-mbtiles) | 用于读写MBTiles格式地图瓦片数据库的Node库 | - |
-| [rsbuild-electron-template](https://github.com/me9rez/rsbuild-electron-template) | 使用Rsbuild构建Electron项目的模板 | - |
 | [maptalks.js](https://github.com/maptalks/maptalks.js) | 一个轻量级且可插拔的JavaScript库，用于集成2D/3D地图 | - |
+| [rsbuild-electron-template](https://github.com/me9rez/rsbuild-electron-template) | 使用Rsbuild构建Electron项目的模板 | - |
 
 ---
 
