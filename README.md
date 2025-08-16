@@ -52,7 +52,6 @@ me9rez
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff)
 
 
 <p align="center">
