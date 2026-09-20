@@ -2,7 +2,7 @@
 
 # me9rez
 
-**前端开发 · GIS 与图形渲染 · AI Agent 工具链**
+**前端开发 · GIS 与图形渲染 · AI Agent 工程师**
 
 *前端出身，写地图和三维渲染；这两年把一半时间花在「怎么让 AI Agent 更好用」上。*
 
@@ -19,7 +19,7 @@
 - 🗺️ **地图与图形**：写过地形切片生成、MBTiles 读写、Quantized Mesh 解码等库，熟悉 WebGL / WebGPU 的三维地形与矢量渲染
 - 🖥️ **前端工程**：Vue / React / TypeScript 是主力，日常在 Rsbuild、Vite 上做构建与工程化，顺手输出过 Electron、NW.js 的项目模板
 - 🦀 **系统方向**：有 Rust 与 Node 原生扩展经验，性能敏感的部分习惯沉到更底层去做
-- 🤖 **AI Agent 工具链**：MCP Server、ACP 客户端、Agent 插件、本地模型网关都自己写过；关心的是模型怎么真正进到日常工作流里，而不是再多一个聊天窗口
+- 🤖 **Agent 工程**：MCP Server、ACP 客户端、Agent 插件、本地模型网关都自己写过；关心的是模型怎么真正进到日常工作流里，而不是再多一个聊天窗口
 - 🌱 **开源习惯**：造的轮子基本都开源，也长期在 maptalks 生态里提 issue、写插件
 
 ---
