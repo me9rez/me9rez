@@ -20,31 +20,6 @@
 - **Agent 工程**：MCP Server、ACP 客户端、Agent 插件、本地模型网关都自己写过；关心的是模型怎么真正进到工作流里，而不是再多一个聊天窗口
 - **开源习惯**：造的轮子基本都开源，也长期在 maptalks 生态里提 issue、写插件
 
-## 技术栈
-
-**前端与构建**
-
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Rsbuild Badge](https://img.shields.io/badge/Rsbuild-448AFF?style=flat)
-
-**GIS 与图形**
-
-![WebGL Badge](https://img.shields.io/badge/WebGL-fff?logo=WebGL&logoColor=5684a1&style=flat)
-![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
-![QGIS Badge](https://img.shields.io/badge/QGIS-5684a1?logo=qgis&logoColor=green&style=flat)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-
-**运行时与工具**
-
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscodium&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 ## 精选项目
 
 ### GIS 与地图可视化
@@ -77,6 +52,31 @@
 | [electron-acp-ui](https://github.com/me9rez/electron-acp-ui) | 跨平台 ACP 客户端，一个界面连接 Claude、Codex、Copilot、Qwen、OpenCode 等 Agent | `Vue` |
 
 更多项目见 [我的仓库列表](https://github.com/me9rez?tab=repositories)。觉得哪个轮子有用，Star 或 Issue 都是最好的打招呼方式。
+
+## 技术栈
+
+**前端与构建**
+
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Rsbuild Badge](https://img.shields.io/badge/Rsbuild-448AFF?style=flat)
+
+**GIS 与图形**
+
+![WebGL Badge](https://img.shields.io/badge/WebGL-fff?logo=WebGL&logoColor=5684a1&style=flat)
+![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
+![QGIS Badge](https://img.shields.io/badge/QGIS-5684a1?logo=qgis&logoColor=green&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+
+**运行时与工具**
+
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=vscodium&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 ## GitHub 概况
 
