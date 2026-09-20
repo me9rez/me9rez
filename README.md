@@ -2,9 +2,9 @@
 
 # me9rez
 
-**前端开发 · GIS 与三维渲染 · AI Agent 工程师**
+**前端开发 · GIS 开发 · AI Agent 工程师**
 
-*前端出身，日常在浏览器里跟地图和几何数据打交道；这两年把一半时间花在「怎么让 AI Agent 更好用」上。*
+*前端出身，日常在浏览器里跟地图瓦片、几何数据和可视化打交道；这两年把一半时间花在「怎么让 AI Agent 更好用」上。*
 
 [![Email Badge](https://img.shields.io/badge/1811783973@qq.com-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:1811783973@qq.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-me9rez.github.io-5684a1?logo=github&logoColor=fff&style=flat)](https://me9rez.github.io/blog)
@@ -16,7 +16,7 @@
 
 ## 🙋 关于我
 
-- 🗺️ **地图与图形**：写过地形切片生成、MBTiles 读写、Quantized Mesh 解码等库，熟悉 WebGL / WebGPU 的三维地形与矢量渲染
+- 🗺️ **GIS 开发**：从数据到呈现都做过 —— 地形切片生成、MBTiles 瓦片读写、Quantized Mesh 解码，以及 WebGL / WebGPU 的三维地形与矢量渲染
 - 🖥️ **前端工程**：Vue / React / TypeScript 是主力，日常在 Rsbuild、Vite 上做构建与工程化，顺手输出过 Electron、NW.js 的项目模板
 - 🦀 **系统方向**：有 Rust 与 Node 原生扩展经验，性能敏感的部分习惯沉到更底层去做
 - 🤖 **Agent 工程**：MCP Server、ACP 客户端、Agent 插件、本地模型网关都自己写过；关心的是模型怎么真正进到日常工作流里，而不是再多一个聊天窗口
@@ -34,7 +34,7 @@
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Rsbuild Badge](https://img.shields.io/badge/Rsbuild-448AFF?style=flat)
 
-**图形与 GIS**
+**GIS 与图形**
 
 ![WebGL Badge](https://img.shields.io/badge/WebGL-fff?logo=WebGL&logoColor=5684a1&style=flat)
 ![WebGPU Badge](https://img.shields.io/badge/WebGPU-5684a1?logo=WebGPU&logoColor=fff&style=flat)
@@ -57,7 +57,7 @@
 
 ## 🖥️ 精选项目
 
-### 🗺️ GIS 与图形渲染
+### 🗺️ GIS 与地图可视化
 
 | 项目 | 一句话简介 | 语言 |
 | - | - | - |
