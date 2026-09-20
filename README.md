@@ -2,9 +2,9 @@
 
 # me9rez
 
-**前端开发 · GIS 与图形渲染 · AI Agent 工程师**
+**前端开发 · GIS 与三维渲染 · AI Agent 工程师**
 
-*前端出身，写地图和三维渲染；这两年把一半时间花在「怎么让 AI Agent 更好用」上。*
+*前端出身，日常在浏览器里跟地图和几何数据打交道；这两年把一半时间花在「怎么让 AI Agent 更好用」上。*
 
 [![Email Badge](https://img.shields.io/badge/1811783973@qq.com-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:1811783973@qq.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-me9rez.github.io-5684a1?logo=github&logoColor=fff&style=flat)](https://me9rez.github.io/blog)
